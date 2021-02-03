@@ -9,7 +9,7 @@ Scraping data with Python
 ## Packages used
    - BeautifulSoup
    - time
-   - requets
+   - requests
    - clear_output
    - pandas
    
